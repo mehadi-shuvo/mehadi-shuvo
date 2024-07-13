@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #39FF14;">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center" style="color: #39FF14;">👋 Hello, I'm Mehadi Hasan!</h1>
 
 <p align="center" style="color: #39FF14;">
   A passionate Software Developer with expertise in:
