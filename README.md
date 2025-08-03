@@ -1,5 +1,15 @@
-# <div align="center">👋 Hi, I'm Mehadi Hasan</div>
-### <div align="center">Full Stack Developer | JavaScript Enthusiast | Continuous Learner</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Mehadi+Hasan;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
+  
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+    Software Developer | MERN Stack Specialist | Open Source Contributor
+  </h3>
+  
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=mehadi-shuvo&theme=onedark&row=1&column=7" alt="Trophies" />
+  </div>
+</div>
 
 <div align="center">
   
