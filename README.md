@@ -8,14 +8,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
   <!-- Title with icons -->
-  <h3 align="center">
+<div align="center">
+  <h3 style="display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0; padding: 0;">
     <img src="https://img.icons8.com/color/48/000000/code.png" width="28px"/> 
-    Software Developer 
+    <span>Software Developer</span>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" width="28px"/> 
-    MERN Stack Specialist 
+    <span>MERN Stack Specialist</span>
     <img src="https://img.icons8.com/color/48/000000/open-source.png" width="28px"/> 
-    Open Source Contributor
+    <span>Open Source Contributor</span>
   </h3>
+</div>
   
   <!-- GitHub Stats -->
   <div>
