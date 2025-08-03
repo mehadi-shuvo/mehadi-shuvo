@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
   <!-- Title with icons -->
-  <h3>
+  <h3 align="center">
     <img src="https://img.icons8.com/color/48/000000/code.png" width="28px"/> 
     Software Developer 
     <img src="https://img.icons8.com/color/48/000000/javascript.png" width="28px"/> 
