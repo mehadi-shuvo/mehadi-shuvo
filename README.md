@@ -36,7 +36,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### <div align="center">🌱 Currently Learning</div>
 
 <div align="center">
   
@@ -48,7 +48,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### <div align="center">🚀 Featured Projects</div>
 
 | Project | Description | Technologies | Links |
 |---------|------------|--------------|-------|
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 Development Activity
+### <div align="center">📊 Development Activity</div>
 
 <div align="center">
   
@@ -74,7 +74,7 @@
 
 ---
 
-### 📫 Let's Connect
+### <div align="center">📫 Let's Connect</div>
 
 <div align="center">
   
