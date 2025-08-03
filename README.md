@@ -92,6 +92,18 @@ TypeScript, Express, MongoDB, ZOD, Bcrypt, JWT
 
 ---
 
+## <div align="center">🌱 Open Source Contributions</div>
+
+### React Title Hook
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
+A custom React hook for dynamic document title updates in SPAs
+
+### Email Verification Package
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+Secure email verification links and OTP solution
+
+---
+
 ### <div align="center">📊 Development Activity</div>
 
 <div align="center">
