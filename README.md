@@ -48,13 +48,47 @@
 
 ---
 
-### <div align="center">🚀 Featured Projects</div>
+## <div align="center">🚀 Featured Projects</div>
 
-| Project | Description | Technologies | Links |
-|---------|------------|--------------|-------|
-| **E-Commerce App** | Full-stack e-commerce platform | MERN Stack | [GitHub](https://github.com/yourusername/projectone) • [Live Demo](#) |
-| **Task Manager** | Productivity application | React, Node.js | [GitHub](https://github.com/yourusername/projecttwo) |
-| **Portfolio Website** | Personal developer portfolio | HTML, CSS, JavaScript | [GitHub](https://github.com/yourusername/projectthree) • [Live Demo](#) |
+### 1. Tuition Point - Education Platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**Key Features:**
+- Role-based authentication (Student/Teacher)
+- Post management system with filtering
+- Fully responsive design
+
+**Technologies:**  
+React, Redux, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT
+
+---
+
+### 2. Summer Sports Camp - Course Management
+[![Client Code](https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Server Code](https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**Key Features:**
+- Three dynamic dashboards (Student/Instructor/Admin)
+- Stripe payment integration
+- Protected routes with JWT
+
+**Technologies:**  
+React, Tailwind, DaisyUI, Node.js, Express, MongoDB, Firebase, Stripe
+
+---
+
+### 3. Course API - RESTful Service
+[![API Demo](https://img.shields.io/badge/API_Demo-FF5722?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**Key Features:**
+- CRUD operations for courses, faculty, students
+- Review rating system
+- Custom error handling
+
+**Technologies:**  
+TypeScript, Express, MongoDB, ZOD, Bcrypt, JWT
 
 ---
 
