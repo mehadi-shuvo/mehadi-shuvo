@@ -1,14 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Mehadi+Hasan;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
   
+  <!-- Animated GIF instead of typing SVG -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  <h1>Hi, I'm Mehadi Hasan</h1>
+  
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  
+  <!-- Title with icons -->
   <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-    Software Developer | MERN Stack Specialist | Open Source Contributor
+    <img src="https://img.icons8.com/color/48/000000/code.png" width="28px"/> 
+    Software Developer 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="28px"/> 
+    MERN Stack Specialist 
+    <img src="https://img.icons8.com/color/48/000000/open-source.png" width="28px"/> 
+    Open Source Contributor
   </h3>
   
+  <!-- GitHub Stats -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mehadi-shuvo&theme=onedark&row=1&column=7" alt="Trophies" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
   </div>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadi-hasan&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
