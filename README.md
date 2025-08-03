@@ -1,5 +1,5 @@
 # <div align="center">👋 Hi, I'm Mehadi Hasan</div>
-### <div align="center">Full Stack Developer | JavaScript Enthusiast | Problem Solver</div>
+### <div align="center">Full Stack Developer | JavaScript Enthusiast | Continuous Learner</div>
 
 <div align="center">
   
@@ -31,12 +31,19 @@
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   
+</div>
+
+---
+
+### 🌱 Currently Learning
+
+<div align="center">
+  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
@@ -45,29 +52,23 @@
 
 | Project | Description | Technologies | Links |
 |---------|------------|--------------|-------|
-| **Project One** | A brief description of Project One | HTML, CSS, JavaScript | [GitHub](https://github.com/yourusername/projectone) |
-| **Project Two** | A brief description of Project Two | React, Redux, Node.js | [GitHub](https://github.com/yourusername/projecttwo) |
-| **Project Three** | A brief description of Project Three | MongoDB, Express, React, Node.js | [GitHub](https://github.com/yourusername/projectthree) |
+| **E-Commerce App** | Full-stack e-commerce platform | MERN Stack | [GitHub](https://github.com/yourusername/projectone) • [Live Demo](#) |
+| **Task Manager** | Productivity application | React, Node.js | [GitHub](https://github.com/yourusername/projecttwo) |
+| **Portfolio Website** | Personal developer portfolio | HTML, CSS, JavaScript | [GitHub](https://github.com/yourusername/projectthree) • [Live Demo](#) |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Development Activity
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mehadi-shuvo&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehadi-shuvo&layout=compact&theme=radical)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true)](https://github.com/yourusername)
 
 </div>
 
----
-
-### 🔥 Streak Stats
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mehadi-shuvo&theme=radical)](https://git.io/streak-stats)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark)
 
 </div>
 
@@ -80,11 +81,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Calendly](https://img.shields.io/badge/Schedule_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/yourprofile)
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat)
 
