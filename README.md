@@ -62,13 +62,13 @@
 
 <div align="center">
   
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true)](https://github.com/yourusername)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mehadi-shuvo&theme=github-compact&hide_border=true&area=true)](https://github.com/mehadi-shuvo)
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehadi-shuvo&theme=github_dark)
 
 </div>
 
@@ -87,6 +87,6 @@
 
 <div align="center" style="margin-top: 20px;">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=mehadi-shuvo&label=Profile%20Views&color=blueviolet&style=flat)
 
 </div>
